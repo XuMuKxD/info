@@ -4,7 +4,7 @@ Add files in commit:
 git add .
 
 Запись commit-а:
-get commit -m "Comment commint"
+git commit -m "Comment commit"
 
 Enter commit:
 git push
