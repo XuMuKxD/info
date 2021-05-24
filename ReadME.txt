@@ -17,4 +17,4 @@ git config --global user.email "Your e-mail"
 git config --global user.name "Your name"
 
 Домашнее задание
-негры
+
