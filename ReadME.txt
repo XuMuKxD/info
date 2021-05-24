@@ -18,3 +18,5 @@ git config --global user.name "Your name"
 
 Домашнее задание
 
+здесь был Иван 
+Иван был здесь
